@@ -1,4 +1,5 @@
 Consulta de CEP com API ViaCEP em Java
+
 Exercicio que fiz para estudar consumo de API no java
 
 Este projeto é uma aplicação simples em Java que consome a API pública [ViaCEP](https://viacep.com.br/) para buscar informações de endereço a partir do CEP informado pelo usuário. O resultado é exibido no console e também salvo em um arquivo json.
